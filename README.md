@@ -20,6 +20,16 @@ Call with `-h` flag to find out how. It is super simple :wink:.
 - github.com/gdamore/tcell
 - github.com/nfnt/resize
 
+### Installation
+
+```
+git clone https://github.com/rokf/binimg
+cd binimg
+go get github.com/gdamore/tcell
+go get github.com/nfnt/resize
+make install
+```
+
 ### License
 
 MIT, Copyright (c) 2018 Rok Fajfar
