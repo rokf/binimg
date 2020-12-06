@@ -22,14 +22,12 @@ Call with `-h` flag to find out how. It is super simple :wink:.
 
 ### Installation
 
-```
+```sh
 git clone https://github.com/rokf/binimg
 cd binimg
-go get github.com/gdamore/tcell
-go get github.com/nfnt/resize
 make install
 ```
 
 ### License
 
-MIT, Copyright (c) 2018 Rok Fajfar
+This library is free software; you can redistribute it and/or modify it under the terms of the MIT license. See LICENSE for details.
